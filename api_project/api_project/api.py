@@ -1,6 +1,6 @@
 from rest_framework import routers
 
-from test_app import views
+from user_app import views
 
 router = routers.DefaultRouter()
 
