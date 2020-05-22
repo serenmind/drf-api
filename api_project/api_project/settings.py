@@ -25,7 +25,7 @@ SECRET_KEY = '90i+r7abjmb19nq+mui@**wt42z3-egl3$*$2-irki4!75aep='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['serenmind.pythonanywhere.com']
 
 
 # Application definition
